@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/webtest/static/css/main.f6afee2a.css",
-    "main.js": "/webtest/static/js/main.205a0a27.js",
-    "index.html": "/webtest/index.html",
-    "main.f6afee2a.css.map": "/webtest/static/css/main.f6afee2a.css.map",
-    "main.205a0a27.js.map": "/webtest/static/js/main.205a0a27.js.map"
+    "main.css": "/Ferdinand-0510.github.io/static/css/main.f6afee2a.css",
+    "main.js": "/Ferdinand-0510.github.io/static/js/main.0f2e6ee8.js",
+    "index.html": "/Ferdinand-0510.github.io/index.html",
+    "main.f6afee2a.css.map": "/Ferdinand-0510.github.io/static/css/main.f6afee2a.css.map",
+    "main.0f2e6ee8.js.map": "/Ferdinand-0510.github.io/static/js/main.0f2e6ee8.js.map"
   },
   "entrypoints": [
     "static/css/main.f6afee2a.css",
-    "static/js/main.205a0a27.js"
+    "static/js/main.0f2e6ee8.js"
   ]
 }
