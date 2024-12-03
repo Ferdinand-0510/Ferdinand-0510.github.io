@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/Ferdinand-0510.github.io/static/css/main.f6afee2a.css",
-    "main.js": "/Ferdinand-0510.github.io/static/js/main.0f2e6ee8.js",
-    "index.html": "/Ferdinand-0510.github.io/index.html",
-    "main.f6afee2a.css.map": "/Ferdinand-0510.github.io/static/css/main.f6afee2a.css.map",
-    "main.0f2e6ee8.js.map": "/Ferdinand-0510.github.io/static/js/main.0f2e6ee8.js.map"
+    "main.css": "/static/css/main.f6afee2a.css",
+    "main.js": "/static/js/main.11901b0a.js",
+    "index.html": "/index.html",
+    "main.f6afee2a.css.map": "/static/css/main.f6afee2a.css.map",
+    "main.11901b0a.js.map": "/static/js/main.11901b0a.js.map"
   },
   "entrypoints": [
     "static/css/main.f6afee2a.css",
-    "static/js/main.0f2e6ee8.js"
+    "static/js/main.11901b0a.js"
   ]
 }
